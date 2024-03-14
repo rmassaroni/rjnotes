@@ -1,6 +1,6 @@
 -- Imports the plugin's additional Lua modules.
-local fetch = require("nvim-4mat.fetch")
-local update = require("nvim-4mat.update")
+local fetch = require("rjnotes.fetch")
+local update = require("rjnotes.update")
 
 -- Creates an object for the module. All of the module's
 -- functions are associated with this object, which is

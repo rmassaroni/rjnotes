@@ -46,4 +46,3 @@ function M.complete_todo()
 end
 
 return M
-    
